@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/items">
+        <file>resources/audio_recorder_btn_active.png</file>
+        <file>resources/audio_recorder_btn_not_active.png</file>
+        <file>resources/icon.ico</file>
+        <file>resources/info.png</file>
+        <file>resources/save.png</file>
+        <file>resources/send_btn.png</file>
+        <file>resources/instruction.txt</file>
+        <file>resources/mute.png</file>
+        <file>resources/unmute.png</file>
+    </qresource>
+</RCC>
