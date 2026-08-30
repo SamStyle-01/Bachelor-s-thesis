@@ -26,3 +26,9 @@
 Чтобы запустить клиент, необходимо установить приложение Валерий AI или запустить код клиента в Qt Creator, предварительно установив все необходимые компоненты.
 
 Чтобы изменить базу данных (в данном примере использовался датасет, собранный с датчиков компрессора за 2021-2022 года), с которой работает приложение, нужно заменить описание датасета в папке Server в файле instructions.py, загрузить требуемый датасет в СУБД PostgreSQL и заменить название базы данных в файле logic.py на новое. А также придётся переобучить модели для обнаружения аномалий, если данная функция требуется.
+
+<img width="952" height="1266" alt="Group 117" src="https://github.com/user-attachments/assets/aa93e7b6-f1e5-4e04-9f37-b6e17a91b813" />
+<img width="937" height="1266" alt="image" src="https://github.com/user-attachments/assets/51a15e20-ef75-43a1-8dd6-c858b51bff07" />
+<img width="1990" height="1266" alt="image" src="https://github.com/user-attachments/assets/5f22a56d-44ca-4dab-803f-8fe20afdb135" />
+<img width="1990" height="1266" alt="image" src="https://github.com/user-attachments/assets/5e0097af-c35e-430a-8bc4-92664fa7a010" />
+
